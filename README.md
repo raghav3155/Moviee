@@ -1,4 +1,4 @@
-# moviee
+# Moviee
 Moviee - Single Page Web Application with React &amp; Redux
 
 **Project is work in progress** Will try and complete by Aug 2023. 
